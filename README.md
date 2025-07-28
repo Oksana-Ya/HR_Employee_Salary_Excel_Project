@@ -3,7 +3,7 @@
 This project analyzes employee salary data using Excel to uncover insights into compensation trends, departmental averages, and salary distributions.
 
 ### Files
-- [`employee_salaries_analysis.xlsx`](https://github.com/Oksana-Ya/HR_Employee_Salary_Excel_Project/blob/main/employee_salaries_analysis.xlsx): Main analysis workbook with dashboards, pivot tables, and charts.
+- [`employee_salaries_analysis.xlsx`](https://github.com/Oksana-Ya/HR_Employee_Salary_Excel_Project/blob/main/employee_salaries_analysis.xlsx): Main analysis workbook with dashboard, pivot tables, formulas, and charts.
 - [`employee_salaries_analysis_raw.xlsx`](https://github.com/Oksana-Ya/HR_Employee_Salary_Excel_Project/blob/main/employee_salaries_analysis_raw.xlsx): Source file containing the raw employee salary data.
 
 ### Requirements
